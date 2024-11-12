@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SerenePirate
 - 👀 I’m interested in learning new things, forever and always
 - 🌱 I’m currently learning coding, programming and mathematics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various coding projects, specially focused on real-time applications
 - 📫 How to reach me - saihaasini.r@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
